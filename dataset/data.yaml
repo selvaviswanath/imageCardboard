@@ -1,0 +1,6 @@
+train: D:/syed/dataset/train/images
+test: D:/syed/dataset/test/images
+val: D:/syed/dataset/valid/images
+
+nc: 1
+names: ['cardboard']
